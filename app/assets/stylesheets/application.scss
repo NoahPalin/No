@@ -130,3 +130,16 @@ form.button_to {
   display: flex;
   align-items: center;
 }
+
+.user-buttons {
+  display: flex;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.55);
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+.login {
+  padding-left: 50px;
+}
+
